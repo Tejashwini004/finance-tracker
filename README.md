@@ -22,7 +22,6 @@ A personal finance tracker web app built with Python, Flask, SQLite and Chart.js
 4. Open browser: `http://127.0.0.1:5000`
 
 ## Screenshots
-## Screenshots
-![Home Page](screenshots/screenshots1.png)
-![Add Transaction](screenshots/screenshots3.png)
-![Summary](screenshots/screenshots4.png)
+![Home Page](Captures/screenshots1.png)
+![Finance Tracker](Captures/screenshots2.png)
+![Summary](Captures/screenshots4.png)
